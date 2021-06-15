@@ -1,0 +1,38 @@
+html{font-family: Arial, Helvetica, sans-serif;
+     background-color: #f0efeb;
+    }
+h1{font-size: 45px; 
+    letter-spacing: 7px; 
+    text-align: center;
+    text-decoration: underline;
+}
+img{border-radius: 10px; width: 266px; display: flex;
+    align-items: center;
+    justify-content: center;
+    float:right
+    
+}
+aside{
+    float: right;
+background-color: #007ea7;
+border-radius: 6px;
+padding: 3px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{text-decoration: underline;}
+aside a {color:beige;}
+p{background-color: #ffbe69b7;
+width: 1160px;
+    border-radius: 6px;
+padding: 3px;
+}
+form p{background-color: transparent;}
+button{background-color: #e5383b;
+color: #f5f3f4;
+border-radius: 3px;
+}
+button:hover{
+    background-color: #851e1f;
+}
