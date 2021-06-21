@@ -1,13 +1,15 @@
-
 .item{
     display: flex;
-     width: 100px;
+    width: 100px;
     height: 100px;
     align-items: center;
     justify-content: center;
     font-size: 30px;
     color: white;
 }
+.item:first-of-type{ background-color: red;}
+.item:nth-of-type(2){background-color: blue;}
+.item:last-of-type{background-color: green;}
 
 .c1{
     border: 3px solid black;
@@ -36,7 +38,3 @@
     align-items: flex-end;
     flex-direction: column;
 }
-
-.item:first-of-type{ background-color: red;}
-.item:nth-of-type(2){background-color: blue;}
-.item:last-of-type{background-color: green;}
