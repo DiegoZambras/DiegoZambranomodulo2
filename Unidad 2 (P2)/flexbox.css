@@ -15,7 +15,7 @@
     border: 3px solid black;
     width: 600px;
     display: flex;
-    margin-bottom: 10px;
+    margin:10px auto;
     align-items: center;
     justify-content: space-between;
 }
@@ -24,7 +24,7 @@
     height: 300px;
     width: 300px;
     border: 3px solid black;
-    margin-bottom: 10px;
+    margin:10px auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -34,6 +34,7 @@
 .c3{
     width: 300px;
     border: 3px solid black;
+    margin:10px auto;
     display: flex;
     align-items: flex-end;
     flex-direction: column;

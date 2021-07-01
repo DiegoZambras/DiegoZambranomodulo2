@@ -1,0 +1,43 @@
+body {
+	color: #000;
+	background: #332F29;
+    margin: 0;
+	font-size:100%;
+}
+#contenedor {
+	width: auto;
+	background: #8FA68E;
+	margin: 0;
+	overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    padding-left: 1rem;
+}
+nav {
+	background: #CC3910;
+	float: none;
+	width: auto;
+}
+ul {
+	list-style-type:none;
+}
+a {
+	color:#F1F2C0;
+	text-decoration: none;
+
+}
+section {
+	background: #F1F2C0;
+	float: none;
+	margin: 0px;
+	width: auto;
+    padding-left: 1rem;
+}
+aside {
+	background: #CCC59E;
+	float: none;
+	width: auto;
+    padding-left: 1em;
+}
