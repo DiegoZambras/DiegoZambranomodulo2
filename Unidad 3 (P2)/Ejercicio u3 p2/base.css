@@ -28,7 +28,7 @@ a {
 	color:#F1F2C0;
     text-decoration: none;
 	padding: 0.2rem;
-	transition: 0.2s;
+	transition: 0.5s;
 }
 a:hover{
 	color:whitesmoke;
